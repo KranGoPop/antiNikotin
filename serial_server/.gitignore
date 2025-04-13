@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.log
+
+# VSCode
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+server.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Test files
+*.test.*
+tests/__pycache__/
+
+# pycache everywhere
+**/__pycache__/
+
+# PlatformIO build folders (если используешь)
+.pio/
+build/
+
+# Temp files
+*.tmp
+*.swp
+*.bak
+*.swo
+*~
